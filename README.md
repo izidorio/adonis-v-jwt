@@ -17,3 +17,8 @@ criar o usuário admin
 ```
 node ace db:seed
 ```
+
+subir o servidor
+```
+node ace serve --watch
+```
