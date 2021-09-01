@@ -6,6 +6,7 @@
  */
 
 import User from 'App/Models/User'
+import { JWTGuard } from 'providers/JWTGuard'
 
 declare module '@ioc:Adonis/Addons/Auth' {
   /*
